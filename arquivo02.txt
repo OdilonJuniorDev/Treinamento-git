@@ -1,3 +1,8 @@
 linha 1 teste arquivo 2
+<<<<<<< Updated upstream
 linha 2 acrescentei pra testes
 bugar com linha 3
+=======
+
+bugar com 3
+>>>>>>> Stashed changes
