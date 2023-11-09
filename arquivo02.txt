@@ -1,4 +1,4 @@
-linha 1 teste arquivo 2
+lalterado
 <<<<<<< Updated upstream
 linha 2 acrescentei pra testes
 bugar com linha 3
